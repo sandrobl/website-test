@@ -1,8 +1,11 @@
 body{
+	/*Erste Hintergrundfarbe der Webseite*/
 	background-color: #458340;
+	/*Schriftgrösse und Schriftfarbe*/
 	font-size: 64;
 	color:white;
 	
+	/*Damit der Text in der Mitte des Bildschirms erscheint*/
 	display: flex; 
 	justify-content: center; 
 	align-items: center; 
