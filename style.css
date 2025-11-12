@@ -1,0 +1,11 @@
+body{
+	background-color: #458340;
+	font-size: 64;
+	color:white;
+	
+	display: flex; 
+	justify-content: center; 
+	align-items: center; 
+	height: 100%;
+	margin: 0px;
+}
